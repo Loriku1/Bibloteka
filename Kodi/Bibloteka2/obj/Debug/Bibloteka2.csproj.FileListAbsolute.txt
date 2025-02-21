@@ -1,0 +1,63 @@
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe.config
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.pdb
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Form1.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Properties.Resources.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.exe
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.pdb
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.AdministratorForm.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.BiblotekarForm.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimetVonuara.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimiMaterialeve.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.KlientetAktive.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiKlienteve.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiMaterialeveBiblografike.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPagesav.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPerdoruesveSistemit.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PagesatTotaleKlienteve.resources
+C:\Users\HP\Desktop\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PerdoruesiForm.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe.config
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.pdb
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.AdministratorForm.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.BiblotekarForm.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Form1.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimetVonuara.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimiMaterialeve.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.KlientetAktive.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiKlienteve.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiMaterialeveBiblografike.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPagesav.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPerdoruesveSistemit.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PagesatTotaleKlienteve.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PerdoruesiForm.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Properties.Resources.resources
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.exe
+C:\Users\HP\Desktop\Semestri 5\Menaxhimi i Bazes se te dhenave\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.pdb
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.exe
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.pdb
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe.config
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.exe
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\bin\Debug\Bibloteka2.pdb
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.AdministratorForm.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.BiblotekarForm.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Form1.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimetVonuara.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.HuazimiMaterialeve.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.KlientetAktive.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiKlienteve.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiMaterialeveBiblografike.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPagesav.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.MenaxhimiPerdoruesveSistemit.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PagesatTotaleKlienteve.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.PerdoruesiForm.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.Properties.Resources.resources
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.GenerateResource.cache
+C:\Users\w11\Desktop\Databaz FK\Bibloteka2\Bibloteka2\Bibloteka2\obj\Debug\Bibloteka2.csproj.CoreCompileInputs.cache
